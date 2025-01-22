@@ -18,3 +18,8 @@ int main() {
     printf("The largest number is: %d\n", largest);
     return 0;
 }
+//OUTPUT
+Enter the number of elements in the array: 5
+Enter 5 integers: 
+12 43 7 65 34
+The largest number in the array is: 65
